@@ -1,3 +1,4 @@
+//file: main.c
 #include "shape.h"
 #include <iostream>
 #include <cstdlib>
@@ -61,6 +62,7 @@ void Set_Shape(Shape* shape[], int cnt) {
 	}
 }
 
+
 //------------------------------  main function    ----------------------------------
 
 int main(int argc, char** argv){
@@ -79,5 +81,5 @@ int main(int argc, char** argv){
 	return 0;
 }
 
-
+//end file main.c
 
