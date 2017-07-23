@@ -1,6 +1,6 @@
 
-project:# Cpp_Learn-Geekband_Task03
-author: JDONE,MSM
+
+author: Joel Jiang,MSM
 /************************************************************************************************************
 **为下面的 Rectangle 和 Circle 类重写 getArea 虚函数。
 **然后创建一个数组。使用一个循环,生成 10 个 Rectangle、10 个 Circle,根据循环遍历顺序为
